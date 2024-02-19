@@ -4,6 +4,9 @@
 1) npm install / npm i 
 2) npm run dev / nodemon run dev
 
+#Video link
+`https://drive.google.com/file/d/1ucWg0d0EiI4hJLAbaabLU-wQOl30WXi2/view?usp=sharing`
+
 **Base URL**
  
 http://localhost:3000
